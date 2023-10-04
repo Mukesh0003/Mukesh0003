@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mukesh0003
+- 👋 Hi, I’m Mukesh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on someone who can teach me how to code
